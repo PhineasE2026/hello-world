@@ -14,14 +14,10 @@ This repository is for practicing the GitHub Flow.
 
 I like to `code`
 
-* UNORDERED
-*  list......
+* unordered
+*  list
 
 1. ordereed
-2. LIST
+2. list
 
-Shmorp gmorp calago rake saven borndagek lackork. macker macken plob.... Hello poignant.
-
-House MD.
-
-The red fox ran following red farrows.
+house md
